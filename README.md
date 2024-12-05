@@ -8,6 +8,11 @@ matplotlib
 scipy
 numpy
 mrcfile
+ipywidgets
+joblib
+pyvista
+pyvista[jupyter]
+
 
 # Recommended to create an anacoda enviroment:
 
@@ -15,7 +20,7 @@ conda create --name cryoEM_pythontools python=3.10
 
 conda activate cryoEM_pythontools
 
-pip install matplotlib scipy numpy mrcfile
+pip install matplotlib scipy numpy mrcfile ipywidgets joblib pyvista pyvista[juptyer]
 
 
 
