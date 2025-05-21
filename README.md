@@ -28,6 +28,12 @@ You may need to install some openGL stuff for the pyvista 3D plots to work:
 
 sudo apt install xvfb
 
+# To run the latent space notebook
 
+I was using the anaconda environment as set up for cryoDRGN (https://github.com/ml-struct-bio/cryodrgn)
+
+And in this environment I also installed tensorflow-gpu:
+
+conda install tensorflow-gpu
 
 
