@@ -113,4 +113,12 @@ XLIM     = (8.0, 2.0)   # resolution axis range in Å
 All unique pairwise FSC curves are computed automatically. Results are saved to
 `fsc_output/` as per-pair CSVs and a `fsc_summary.csv`.
 
+---
+
+## Acknowledgements
+
+Parts of the real-space rigid map-fitting approach used in this project were
+inspired by ideas from UCSF ChimeraX:
+<https://github.com/RBVI/ChimeraX/>
+
 
