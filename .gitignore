@@ -1,0 +1,6 @@
+*.txt
+*.mrc
+*.png
+*.csv
+*.cs
+fsc_output/
