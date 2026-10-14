@@ -3,4 +3,10 @@
 *.png
 *.csv
 *.cs
+*.pkl
+*.xml
 fsc_output/
+data/
+volumes/
+maps/
+csparc/
